@@ -14,5 +14,6 @@ Código criado para remover caracateres especiais dos nomes em listas do Helios 
             
 <h4>Créditos</h4>
 
-A rotina de remoção dos caracteres é baseada neste GIST: https://gist.github.com/boniattirodrigo/67429ada53b7337d2e79 <br>
-no presente código foi apenas implementada um solução pontual para listas do helios voting
+A rotina de remoção dos caracteres é baseada neste GIST: https://gist.github.com/boniattirodrigo/67429ada53b7337d2e79 <br> 
+criado por <a href="https://gist.github.com/boniattirodrigo">Rodrigo Boniatti</a>. <br>
+No presente código foi apenas implementada uma solução pontual para listas do helios voting a partir de arquivos *.csv
