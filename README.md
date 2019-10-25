@@ -5,11 +5,11 @@ Código criado para remover caracateres especiais dos nomes em listas do Helios 
 <br>
 <ol>
 <li>Faça o clone ou o download do repositório </li>
-<li>copie o arquivo que deseja 'limpar' para o diretório do repositório </li> 
+<li>Copie o arquivo que deseja 'limpar' para o diretório do repositório </li> 
         <ol><li>o arquivo deve ter a extensão csv no formato recomendado pelo helios voting (id_unico,email,nome) <br>
                 este código vai remover acentos apenas dos nomes  </li></ol>
-<li>na linha seguinte ao primeiro comentário (#) coloque o nome do arquivo que você deseja alterar </li>
-<li>[opcional] modifique o prefixo após o segundo comentário # </li><br>
+<li>Na linha seguinte ao primeiro comentário (#) coloque o nome do arquivo que você deseja alterar </li>
+<li>[opcional] Modifique o prefixo após o segundo comentário # </li><br>
 </ol>
             
 <h4>Créditos</h4>
